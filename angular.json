@@ -30,9 +30,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "C:/UI Practice/angular all/basicangular/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/UI Practice/angular all/basicangular/node_modules/jquery/dist/jquery.min.js",
+              "C:/UI Practice/angular all/basicangular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -100,5 +104,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b5bc1ee9-84c5-4b85-b281-d2d04e0afb4d"
   }
 }
