@@ -31,11 +31,11 @@
             ],
             "styles": [
               "src/styles.scss",
-              "C:/UI Practice/angular all/basicangular/node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "C:/UI Practice/angular all/basicangular/node_modules/jquery/dist/jquery.min.js",
-              "C:/UI Practice/angular all/basicangular/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {
